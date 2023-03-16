@@ -2,7 +2,7 @@
 
 This project is part of the “Machine Learning &Advanced Machine Learning” curriculum as capstone projects at AlmaBetter.
 
-OBJECTIVE
+#OBJECTIVE
 
 
 The main objective is to create a machine learning model to predict the popularity of news on different social media platforms such as Facebook, LinkedIn and Google Plus
@@ -11,7 +11,7 @@ The main objective is to create a machine learning model to predict the populari
 
 
 
-PROJECT FILES DESCRIPTION
+#PROJECT FILES DESCRIPTION
 
 This Project includes 1 executable files and 1 project documentation as follows:
 
@@ -25,7 +25,7 @@ News_Popularity_Prediction.ipynb - Complete notebook containing Data exploration
 
 
 
-Documentation:
+#Documentation:
 
 News Popularity Prediction_cohort_seattle.pptx - Includes the documentation of the project
 
@@ -34,7 +34,7 @@ News Popularity Prediction_cohort_seattle.pptx - Includes the documentation of t
 
 
 
-METHODS USED
+#METHODS USED
 
 Descriptive Statistics
 
@@ -47,7 +47,7 @@ Machine Learning
 
 
 
-Technologies
+#TECHNOLOGIES
 
 Python
 
@@ -70,7 +70,7 @@ XGBoost
 
 
 
-Abstract
+#Abstract
 
 
 News popularity on various social media platforms depends on multiple features like the topic, source of publication, time-span and sentiment score. Here we are provided with a dataset that contains news items and their respective social feedback on different platforms: Facebook, GooglePlus and LinkedIn. Based on the previous trend, this data analysis and prediction with machine learning models can help us understand what are the reasons for news popularity on social media and obtain the best regression model.
@@ -82,7 +82,7 @@ News popularity on various social media platforms depends on multiple features l
 
 
 
-DATA DESCRIPTION
+#DATA DESCRIPTION
 
 We have 13 dataset which are categorised into 2 types News_Final dataset and Time Span Dataset.
 
@@ -131,7 +131,7 @@ TS144 (numeric): Final level of popularity after 2 days upon publication
 
 
 
-NEEDS OF THIS PROJECT
+#NEEDS OF THIS PROJECT
 
 data exploration/descriptive statistics
 
@@ -147,7 +147,7 @@ predictive modeling
 
 
 
- Execution Instruction
+ #Execution Instruction
  
 The order of execution of the program files is as follows:
 
@@ -156,7 +156,7 @@ The order of execution of the program files is as follows:
 
 The News_Popularity_Prediction.ipynb contains the entire code for Data exploration/Data processing/transformation/model development
 
-References 
+#References 
 https://towardsdatascience.com 
 
 
