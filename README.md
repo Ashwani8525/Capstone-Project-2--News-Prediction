@@ -156,6 +156,15 @@ The order of execution of the program files is as follows:
 
 The News_Popularity_Prediction.ipynb contains the entire code for Data exploration/Data processing/transformation/model development
 
+# Conclusion
+Starting from loading the datasets, we covered data wrangling, EDA, feature selection and modeling.
+
+The R2 Score obtained for all models revolved around 85% to 92% for all the three dependent variables.
+
+Further, we carried out hyperparameter tuning and obtained the best score and best parameters for all the models and there was not much improvement in the R2 Score.
+
+So the accuracy obtained by the best model is 92%. From here we can also conclude that the TS columns in the time-span dataset have a higher influence on our dependent variable
+
 # References 
 
 https://towardsdatascience.com 
