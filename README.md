@@ -1,8 +1,61 @@
 # Capstone-Project-2--News-Prediction
 
-Predicting the news popularity in multiple social media platforms.
+This project is part of the “Machine Learning &Advanced Machine Learning” curriculum as capstone projects at AlmaBetter.
 
-Problem Description This is a large data set of news items and their respective social feedback on multiple platforms: Facebook, Google+ and LinkedIn.The collected data relates to a period of 8 months, between November 2015 and July 2016, accounting for about 100,000 news items on four different topics: Economy, Microsoft, Obama and Palestine. Data Description Attribute Information:
+OBJECTIVE
+
+
+The main objective is to create a machine learning model to predict the popularity of news on different social media platforms such as Facebook, LinkedIn and Google Plus
+
+PROJECT FILES DESCRIPTION
+
+This Project includes 1 executable files and 1 project documentation as follows:
+
+Executable Files:
+
+News_Popularity_Prediction.ipynb - Complete notebook containing Data exploration/Data processing/transformation/model development.
+
+
+Documentation:
+
+News Popularity Prediction_cohort_seattle.pptx - Includes the documentation of the project
+
+
+METHODS USED
+
+Descriptive Statistics
+
+Data Visualization
+
+Machine Learning
+
+Technologies
+
+Python
+
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+XGBoost
+
+Abstract
+
+
+News popularity on various social media platforms depends on multiple features like the topic, source of publication, time-span and sentiment score. Here we are provided with a dataset that contains news items and their respective social feedback on different platforms: Facebook, GooglePlus and LinkedIn. Based on the previous trend, this data analysis and prediction with machine learning models can help us understand what are the reasons for news popularity on social media and obtain the best regression model.
+
+DATA DESCRIPTION
+
+We have 13 dataset which are categorised into 2 types News_Final dataset and Time Span Dataset.
+
+1. News_Final Dataset(1 Dataset):
+It contains information of news related to 4 topics Microsoft, Obama, Economy and Palestine collected from different sources and their popularity on 3 social media platform namely Facebook, GooglePlus and LinkedIn.
 
 
 
@@ -39,3 +92,27 @@ TS2 (numeric): Level of popularity in time slice 2 (20-40 minutes upon publicati
 TS... (numeric): Level of popularity in time slice ...
 
 TS144 (numeric): Final level of popularity after 2 days upon publication
+
+NEEDS OF THIS PROJECT
+
+data exploration/descriptive statistics
+
+data processing/cleaning
+
+predictive modeling
+
+
+ Execution Instruction
+ 
+The order of execution of the program files is as follows:
+
+
+1) News_Popularity_Prediction.ipynb
+
+The News_Popularity_Prediction.ipynb contains the entire code for Data exploration/Data processing/transformation/model development
+
+References 
+https://towardsdatascience.com 
+
+https://www.analyticsvidhya.com
+https://machinelearningmastery.com
