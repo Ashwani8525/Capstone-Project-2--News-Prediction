@@ -7,6 +7,10 @@ OBJECTIVE
 
 The main objective is to create a machine learning model to predict the popularity of news on different social media platforms such as Facebook, LinkedIn and Google Plus
 
+
+
+
+
 PROJECT FILES DESCRIPTION
 
 This Project includes 1 executable files and 1 project documentation as follows:
@@ -16,9 +20,18 @@ Executable Files:
 News_Popularity_Prediction.ipynb - Complete notebook containing Data exploration/Data processing/transformation/model development.
 
 
+
+
+
+
+
 Documentation:
 
 News Popularity Prediction_cohort_seattle.pptx - Includes the documentation of the project
+
+
+
+
 
 
 METHODS USED
@@ -28,6 +41,11 @@ Descriptive Statistics
 Data Visualization
 
 Machine Learning
+
+
+
+
+
 
 Technologies
 
@@ -45,10 +63,24 @@ Scikit-learn
 
 XGBoost
 
+
+
+
+
+
+
+
 Abstract
 
 
 News popularity on various social media platforms depends on multiple features like the topic, source of publication, time-span and sentiment score. Here we are provided with a dataset that contains news items and their respective social feedback on different platforms: Facebook, GooglePlus and LinkedIn. Based on the previous trend, this data analysis and prediction with machine learning models can help us understand what are the reasons for news popularity on social media and obtain the best regression model.
+
+
+
+
+
+
+
 
 DATA DESCRIPTION
 
@@ -93,6 +125,12 @@ TS... (numeric): Level of popularity in time slice ...
 
 TS144 (numeric): Final level of popularity after 2 days upon publication
 
+
+
+
+
+
+
 NEEDS OF THIS PROJECT
 
 data exploration/descriptive statistics
@@ -100,6 +138,13 @@ data exploration/descriptive statistics
 data processing/cleaning
 
 predictive modeling
+
+
+
+
+
+
+
 
 
  Execution Instruction
@@ -114,5 +159,8 @@ The News_Popularity_Prediction.ipynb contains the entire code for Data explorati
 References 
 https://towardsdatascience.com 
 
+
 https://www.analyticsvidhya.com
+
+
 https://machinelearningmastery.com
